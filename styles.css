@@ -1,0 +1,12 @@
+.bionic-bold {
+  font-weight: bold;
+}
+
+.bionic-light {
+  /* Existing styles */
+}
+
+.colored-word {
+  background-color: black;
+  /* Additional styles if needed */
+}
